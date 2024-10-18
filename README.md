@@ -1,11 +1,7 @@
-## Hi there 👋
-
-<!--
-**renaudin-clement/renaudin-clement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## A propos de moi
+## Salut 👋
 
 
-Salut, Je suis renaudin clément.  
+Je suis renaudin clément.  
 etudiant en informatique a l'IUT d'Orléans's en France.  
 Independent game developer.  
 
