@@ -3,10 +3,8 @@
 
 Je suis renaudin clément.  
 etudiant en informatique a l'IUT d'Orléans's en France.  
-Independent game developer.  
 
-Je travaille regulierement sur different projet   
-En ce moment je travails sur un petit jeu via pygame  
+Je travaille regulierement sur different projet.
 
 Comment me contacter :  
 ✉️ pro.renaudin.clement@gmail.com
@@ -14,18 +12,21 @@ Comment me contacter :
 </div>
 
 
-###  présent les langage de programtion que je maitrise ! 
+###  présentation des langages de programtions que je maitrises ! 
 
 ## Langues:
-  - python
-  - java
-  - sql
-  - marriadb
-  - orcale
-  - css\html
-  - bash
-  - makdown
-  - github
+  - Python
+  - Java
+  - C#
+  - PHP
+  - SQL/Mysql
+  - Marriadb
+  - Orcale
+  - CSS\HTML
+  - Flask
+  - Bash
+  - Makdown
+  - Github
 
 
 
