@@ -1,40 +1,43 @@
-## Salut 👋
+## Salut 👋  
 
+Je suis **Renaudin Clément**, étudiant en informatique à l'IUT d'Orléans en France.  
 
-Je suis renaudin clément.  
-etudiant en informatique a l'IUT d'Orléans's en France.  
+Je travaille régulièrement sur différents projets.  
 
-Je travaille regulierement sur different projet.
+### 📬 Comment me contacter :  
+✉️ pro.renaudin.clement@gmail.com  
 
-Comment me contacter :  
-✉️ pro.renaudin.clement@gmail.com
+---
 
-</div>
+### 💻 Présentation des technologies que je maîtrise  
 
+#### 🖥️ Langages de programmation :  
+- Python  
+- Java  
+- C#  
+- PHP  
+- HTML / CSS  
+- Bash  
 
-###  Présentation des langages de programtions que je maitrises ! 
+#### 🛠️ Frameworks et outils de développement :  
+- Flask  
+- Flutter  
+- Maven  
 
-## Langues:
-  - Python
-  - Java
-  - C#
-  - PHP
-  - SQL/Mysql
-  - Marriadb
-  - Oracle
-  - CSS\HTML
-  - Flask
-  - Bash
-  - Makdown
-  - Github
+#### 🗄️ Bases de données :  
+- MySQL  
+- MariaDB  
+- SQLite3  
+- Oracle  
+- SQL  
 
-## Framework:
+#### 📄 Outils et autres :  
+- Markdown  
+- GitHub  
 
-## BDD:
+---
 
-
-
-## 🌐 Socials:
-<a href="https://www.linkedin.com/in/renaudin-clement/"><img src="https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin" alt="likedin" /></a>  
+## 🌐 Socials :  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/renaudin-clement/)
 
 
