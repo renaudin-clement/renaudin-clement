@@ -2,10 +2,7 @@
 
 Je suis **Renaudin Clément**, étudiant en informatique à l'IUT d'Orléans en France.  
 
-Je travaille régulièrement sur différents projets.  
-
-### 📬 Comment me contacter :  
-✉️ pro.renaudin.clement@gmail.com  
+Je travaille régulièrement sur différents projets.   
 
 ---
 
@@ -35,6 +32,9 @@ Je travaille régulièrement sur différents projets.
 - Markdown  
 - GitHub  
 
+---
+### 📬 Comment me contacter :  
+✉️ pro.renaudin.clement@gmail.com 
 ---
 
 ## 🌐 Socials :  
