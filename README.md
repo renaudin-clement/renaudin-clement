@@ -21,7 +21,7 @@ Comment me contacter :
   - PHP
   - SQL/Mysql
   - Marriadb
-  - Orcale
+  - Oracle
   - CSS\HTML
   - Flask
   - Bash
