@@ -10,7 +10,8 @@ Je travaille régulièrement sur différents projets.
 
 #### 🖥️ Langages de programmation :  
 - Python  
-- Java  
+- Java
+- JScripte
 - C#  
 - PHP  
 - HTML / CSS  
