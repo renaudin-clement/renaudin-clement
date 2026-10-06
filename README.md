@@ -1,5 +1,5 @@
 # 💫 About Me:
-Salut 👋  <br>Je suis Renaudin Clément, étudiant en informatique à l'IUT d'Orléans en France.  <br>Je travaille régulièrement sur différents projets.
+Salut 👋  <br>Je suis Renaudin Clément, diplômé en informatique à l'IUT d'Orléans en France.  <br>Je travaille régulièrement sur différents projets.
 
 
 ## 🌐 Socials:
